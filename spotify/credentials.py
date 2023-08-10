@@ -1,3 +1,3 @@
-CLIENT_ID="f0fa12f2936f40a18781b0c680361b10"
-CLIENT_SECRET="f21266ed9bd143b3a88092abbd7f1020"
-REDIRECT_URI="http://127.0.0.1:8000/spotify/redirect"
+CLIENT_ID="your client id from spotify web api"
+CLIENT_SECRET="your client secret from spotify web api"
+REDIRECT_URI="The uri that you want the spotify app to redriect once authentication is completed successfully"
